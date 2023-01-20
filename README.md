@@ -215,5 +215,5 @@ Monty Files:
 
 ## Autors
 
-* **Sanyaolu Hammed Oladimeji** - [Harmclefff](https://github.com/Harmcleff)
+* **Sanyaolu Hammed** - [Harmclefff](https://github.com/Harmcleff)
 * * **Temitayo Yesufu** - [Harmclefff](https://github.com/EvelynTee)
