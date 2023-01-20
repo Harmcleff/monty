@@ -213,7 +213,7 @@ Monty Files:
 -   Read the two digits from stdin, multiply them, and print the result, followed by a new line
 ![alt text](http://mein-fun.com/data/media/5/brainfuck_bean.jpg)
 
-## Autors
+## Author/collaborator
 
 * **Sanyaolu Hammed** - [Harmclefff](https://github.com/Harmcleff)
 * * **Temitayo Yesufu** - [Harmclefff](https://github.com/EvelynTee)
